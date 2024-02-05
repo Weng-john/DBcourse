@@ -184,8 +184,6 @@ ins_num smallint PK FK >- institution.ins_num
 
 ## Work Plan
 
----
-
 ### Time Schedule
 
 ![Untitled](Final%20Project%20Proposal/Untitled%202.png)
